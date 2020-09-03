@@ -9,7 +9,7 @@ node app.js add --title="Enter a title" --body="Enter the body" --note="Enter th
 
 To remove a note:
 ```bash
-node app.js remove --name"Name of the note"
+node app.js remove --name="Name of the note"
 ```
 
 To list your notes:
